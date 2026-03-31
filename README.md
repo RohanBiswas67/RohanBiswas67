@@ -1,5 +1,5 @@
 # 💫 About Me:
-BTech Computer Science graduate (Tezpur University, 2025) with hands-on experience building end-to-end ML pipelinesfrom raw data ingestion to deployed, interactive dashboards. Proficient in Python, PyTorch, time-series modeling, feature engineering, and data analysis across structured and unstructured datasets. Strong in statistical reasoning, reproducible<br>workflows, and writing clean production-quality code.<br>I build models, and prove when they’re wrong.
+BTech Computer Science graduate (Tezpur University, 2025) with hands-on experience building end-to-end ML pipelines from raw data ingestion to deployed, interactive dashboards. Proficient in Python, PyTorch, time-series modeling, feature engineering, and data analysis across structured and unstructured datasets. Strong in statistical reasoning, reproducible<br>workflows, and writing clean production-quality code.<br>I build models, and prove when they’re wrong.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanbiswas67&label=Profile%20views&color=0e75b6&style=flat" alt="rohanbiswas67" /> </p>
 
